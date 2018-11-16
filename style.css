@@ -1,0 +1,36 @@
+   input{
+      width: 30%;
+      margin-bottom: 20px;
+   }
+   input[type="text"]{
+      border:none;
+      border-bottom: 1px solid #efeeed;
+      color: #333333;
+      background: transparent;
+      outline: none;
+      height: 40px;
+      color: #fff;
+   }
+   	#btnload{
+   	border: none;
+   	outline: none;
+      height: 40px;
+   	background: #00c8b3;
+   	color: #ffffff;
+   	font-size: 18px;
+   	border-radius: 30px;
+   }
+   #btnload:houver{
+      cursor: 70%;
+      color: #dddcdc;
+      background:#f6f6f6;
+   }
+   button{
+      border: none;
+      outline: none;
+      height: 40px;
+      background: #00c8b3;
+      color: #ffffff;
+      font-size: 18px;
+      border-radius: 30px;
+   }
